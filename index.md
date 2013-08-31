@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Bridge Foundry Code of Conduct -- DRAFT
 
 Bridge Foundry seeks to create a community of software developers that are reflective of the diversity in the general population. To that end, we are dedicated to creating welcoming and friendly learning environments.  
