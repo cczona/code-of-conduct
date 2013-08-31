@@ -49,3 +49,4 @@ License
 This Code of Conduct was forked from the PyCon Code of Conduct, which in turn was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a Creative Commons Zero license.
 
 TO DO: What Creative Commons license is RailsBridge releasing this under?
+TO DO: Change RailsBridge to Bridge Foundry for consistency?

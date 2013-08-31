@@ -26,8 +26,10 @@ dialing 911. If you do not have a cell phone, simply ask any organizer.
 
 **Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they
 will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for
-the offenders, and the community at large, to grow, learn, and become better. RailsBridge organizers requests
+the offenders, and the community at large, to grow, learn, and become better. RailsBridge organizers request
 that they be your first resource when reporting a RailsBridge-related incident, so that they may enforce
 the Code of Conduct and take quick action toward a resolution.
 
 TO DO: Contact information?
+TO DO: RailsBridge vs. BridgeFoundry?
+TO DO: remove 911 reference as US-specific; reference the doc where the correct info would be?

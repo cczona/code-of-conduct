@@ -13,3 +13,5 @@ If it is an emergency, if you are injured, or feel threatened, do not hesitate t
 
 If you feel another student, volunteer or organizer has been disrespectful, but aren't sure if it qualifies as harassment, feel free to respond to that person directly, and also alert one of the organizers. We seek to create a safe learning space and people need to know if their behavior inhibits effective learning for other participants.  We welcome your participation in this, and respect your privacy if you choose simply to report the incident.  When we know about inappropriate behavior we can work with individuals and improve our training to educate our volunteers.
 
+TO DO: Is this redundant to "Attendee Procedure..."?
+TO DO: remove US-only 911 reference?

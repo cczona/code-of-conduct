@@ -67,3 +67,6 @@ Additional contacts:
 * Bridge Foundry Leadership
 
 Adapted from [GeekFeminism wiki: Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
+
+TO DO: generalize 911 instructions for non-US events
+TO DO: Is this redundant to "Staff Procedure..."?
