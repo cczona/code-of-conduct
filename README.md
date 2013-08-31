@@ -22,13 +22,8 @@ If you are not sure if something is appropriate behavior, it probably isn't.  Ea
 
 * If you are a teacher or volunteer, and ask a student for their email address or phone number, it may be interpreted as creepy or stalking OR it may be a friendly follow-up.  Be aware that you may not detect the difference.  If you just met the other person for the first time, consider offering your contact info, instead of requesting theirs.
 
- 
-License
--------
+## TO DO 
 
-This Code of Conduct was inspired by the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a Creative Commons Zero license.
-
-TO DO: What Creative Commons license is Bridge Foundry releasing this under?
-TO DO: Change RailsBridge to Bridge Foundry for consistency?
-TO DO: Add links
-TO DO: Add Contact Info
+* Add License file (proposal sent to list for review)
+* Add links
+* Add Contact Info
