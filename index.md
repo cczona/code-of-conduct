@@ -26,8 +26,4 @@ If you are not sure if something is appropriate behavior, it probably isn't.  Ea
 
 * If you are a teacher or volunteer, and ask a student for their email address or phone number, it may be interpreted as creepy or stalking OR it may be a friendly follow-up.  Be aware that you may not detect the difference.  If you just met the other person for the first time, consider offering your contact info, instead of requesting theirs.
 
-## TO DO 
 
-* Add License file (proposal sent to list for review)
-* Add links
-* Add Contact Info
