@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # What To Do If Someone Reports Harassment 
 
 If someone reports harassment:

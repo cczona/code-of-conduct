@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 == What To Do If You Feel Harassed ==
 
 If it is an emergency, if you are injured, or feel threatened, do not hesitate to call 911. Your safety is always our first priority.
