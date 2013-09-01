@@ -1,17 +1,20 @@
 # Code of Conduct 
 
-## TO DO
+Published: [Code of Conduct](http://railsbridge.github.io/code-of-conduct/)
 
-* Publish on ghpages and add link to that here
+# TO DO
+
 * Add License file (proposal sent to list for review)
 * Add links
 * Add Contact Info
 
 
-# editing instructions
+# Editing Instructions
+
 We're using the [github-pages gem](https://github.com/github/pages-gem/blob/master/github-pages.gemspec#L16) to ensure we're using locally the same versions of gems that github uses when we publish. 
 
 ```
+git branch --track gh-pages origin/gh-pages
 bundle install
 ```
 
