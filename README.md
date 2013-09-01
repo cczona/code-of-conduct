@@ -5,7 +5,6 @@ Published: [Code of Conduct](http://railsbridge.github.io/code-of-conduct/)
 ## TO DO
 
 * Add License file (proposal sent to list for review)
-* Add links
 * Add Contact Info
 
 
