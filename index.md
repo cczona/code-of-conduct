@@ -9,7 +9,7 @@ We seek to create a community of software developers that are reflective of the 
 All participants agree to the following:
 * Everyone has something to contribute. Everyone deserves access to materials and community that will help them learn. As long as an individual can be respectful and not disruptive to other participants, they deserve to participate.
 * If there is limited space and resources, anyone is welcome to replicate an event, such that more opportunities may be available. All curricula and organizing materials are open source and free. Provided that the organizer and event conform to project guidelines, we will help.
-* A harassment-free experience for everyone is essential. See [anti-harassment policy](anti-harrassment-policy.md)
+* A harassment-free experience for everyone is essential. See [anti-harassment policy](anti-harrassment-policy.html)
 
 Furthermore, workshops and associated "after party" must be safe environments focused on learning.  
 
@@ -26,5 +26,6 @@ If you are not sure if something is appropriate behavior, it probably isn't.  Ea
 ## Participating Organizations
 
 The following organizations are Bridge Foundry projects or partners and agree to the code of conduct above:
+
 * RailsBridge
 
