@@ -430,12 +430,13 @@ Small Device Styles
 }
 
 /*------------- Custom ---------------*/
-
+/* do this on hover once we have the embed option
 .conduct {
     border: dotted 1px #333;
     padding: 10px;
 
 }
+*/
 
 /*
 .embed {
