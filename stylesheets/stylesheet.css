@@ -427,3 +427,32 @@ Small Device Styles
   }
 
 }
+
+/*------------- Custom ---------------*/
+
+.conduct {
+    border: dotted 1px #333;
+    padding: 10px;
+
+}
+
+/*
+.embed {
+    position: absolute;
+    left: 680px;
+    background-color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: solid 1px #ccc;
+}
+*/
+
+.embed {
+    display: none;
+    background-color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: solid 1px #ccc;
+    margin-bottom: 10px;
+}
+
