@@ -299,6 +299,7 @@ Full-Width Styles
 
 #header_wrap .inner {
   padding: 50px 10px 30px 10px;
+  background: 6px 50px url('../images/code-of-conduct-header-640x129.png') no-repeat;
 }
 
 #project_title {
