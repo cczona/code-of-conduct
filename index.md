@@ -11,10 +11,10 @@ Below are some clear examples of how to comply with the Code of Conduct
 ## Gray Area
 Sometimes it's not clear.  Good conduct requires judgment. There is a [gray area](gray-area.html) between warm and welcoming behavior and unacceptable.
 
-## When Things Go Wrong
+## What To Do When Things Go Wrong
 
-* [What to do if You Feel Harassed](participant-response.html)
-* [What to do as an Organizer](organizer-response.html)
+* [If You Feel Harassed](participant-response.html)
+* [If You Are an Organizer](organizer-response.html)
 
 
 ## Participating Organizations
