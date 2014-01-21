@@ -21,5 +21,5 @@ Sometimes it's not clear.  Good conduct requires judgment. There is a [gray area
 
 The following organizations are Bridge Foundry projects or partners and agree to the code of conduct above:
 
-* RailsBridge
+* [RailsBridge](http://railsbridge.org)
 
